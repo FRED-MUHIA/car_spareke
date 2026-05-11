@@ -38,7 +38,6 @@
                     <span class="ml-2 font-black tracking-wider">01:02:41</span>
                 </p>
 
-                <a href="{{ route('login') }}" class="mt-10 inline-flex rounded-md bg-[#060b3d] px-5 py-3 text-sm font-extrabold text-white shadow-sm hover:bg-[#11195f]">Admin Login</a>
             </div>
 
             <div class="relative min-h-[420px] lg:min-h-[620px]" aria-hidden="true">
